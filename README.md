@@ -11,7 +11,7 @@
 ## 🔗 テンプレート・実物の確認
 本システムのレイアウトや実際の動作を確認・テストするためのスプレッドシート（テンプレート）を公開しています。
 
-👉 **[Googleスプレッドシートのテンプレートを開く]([https://docs.google.com/spreadsheets/d/1DYI7yp3zl5_rDw3XkCi4PNymn-UQUz0Ep3npcY77BpM/edit?usp=sharing])**
+👉 **[Googleスプレッドシートのテンプレートを開く](https://docs.google.com/spreadsheets/d/1DYI7yp3zl5_rDw3XkCi4PNymn-UQUz0Ep3npcY77BpM/edit?usp=sharing)**
 
 ※ 閲覧専用権限で公開しています。実際の自動仕分けの挙動を試す場合は、シートを開いた後にメニューの **`ファイル` ＞ `コピーを作成`** を行い、ご自身のGoogleドライブに複製してご利用ください（GASのスクリプトも自動的に複製されます）。
 
